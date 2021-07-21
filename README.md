@@ -56,7 +56,8 @@
 "> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>[![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthishere)](https://github.com/parthishere/github-readme-stats)
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthishere&show_icons=true&locale=en&layout=compact" alt="parthishere" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthishere&show_icons=true&locale=en" alt="parthishere" width="410" /></p>
