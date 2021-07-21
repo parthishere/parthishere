@@ -62,12 +62,9 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthishere&show_icons=true&locale=en&layout=compact" alt="parthishere" /></p> -->
   
-  [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthishere)](https://github.com/parthishere/github-readme-stats)
+  [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthishere&show_icons=true&theme=radical)](https://github.com/parthishere/github-readme-stats)
 
   
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthishere&show_icons=true&locale=en" alt="parthishere" width="410" /></p>
-
-
 
 <hr>
