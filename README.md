@@ -31,12 +31,11 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
-✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
 ✔ I’m currently Developing **AutonomusCar** <br>
 ✔ I’m currently learning **Tensorflow** & **Django**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
+✔ Ask me about anything, I am happy to help, only if the ball is in my court! <br>
+✔ Fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
@@ -55,12 +54,18 @@
   <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
 "> </code>
   <hr>
+  
+  
   <p align="center">
- <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>
+<!--  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>
   ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthishere&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthishere&show_icons=true&locale=en&layout=compact" alt="parthishere" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parthishere&show_icons=true&locale=en&layout=compact" alt="parthishere" /></p> -->
+  
+  [![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthishere)](https://github.com/parthishere/github-readme-stats)
 
+  
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parthishere&show_icons=true&locale=en" alt="parthishere" width="410" /></p>
 
 
