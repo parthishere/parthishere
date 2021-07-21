@@ -64,7 +64,9 @@
   
   ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthishere&show_icons=true&theme=radical)
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthishere)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthishere&theme=radical)
+   
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=parthishere&theme=blue-green&hide_border=true" alt="" />
 
   </p>
 </details>
