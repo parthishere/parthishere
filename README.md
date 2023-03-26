@@ -4,11 +4,15 @@
   <summary>:zap: GitHub Stats</summary>
   <p align="center">
   
-  ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=parthishere&show_icons=true&theme=radical)
-    
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parthishere&theme=radical)
-   
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=parthishere&theme=blue-green&hide_border=true" alt="" />
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=parthishere&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=parthishere&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthishere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=parthishere&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
   </p>
 </details>
